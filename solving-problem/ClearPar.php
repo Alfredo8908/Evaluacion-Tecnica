@@ -15,5 +15,9 @@ class ClearPar
 }
 
 $test = new ClearPar();
-echo $test->build("()())");
+echo "EJERCICIO ===()())()===" . $test->build("()())()");
+echo "   EJERCICIO ===()(()===" . $test->build("()(()");
+echo "   EJERCICIO ===)(===" . $test->build(")(");
+echo "   EJERCICIO ===((()===" . $test->build("((()");
+
 
