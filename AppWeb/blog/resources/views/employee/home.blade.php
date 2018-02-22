@@ -108,7 +108,7 @@
                                                     <label>Skills</label>
                                                     @foreach($row['skills'] as $row)
                                                     <input type="text" value="{{ $row['skill'] }}" class="form-control" readonly disabled> 
-                                                       @endforeach                                                                     
+                                                    @endforeach                                                                     
                                                 </div>
                                             </div> 
                                         </div>
