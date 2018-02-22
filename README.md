@@ -8,9 +8,14 @@ La resolución de la evaluación consta de 2 partes:
 
 
 	NOTA:
+	Por motivos de tiempo me falto realizar la liberación del servicio web todos los demás
+	puntos estan completados. 
+
 	En la evaluación planteada se me pidió que usara el framework SLIM, le pido disculpas puesto
 	que no lo hice con ese framework ya que no lo manejo aún, así que lo hice en el framework Laravel en el cual 
-	tengo mayor conocimiento, espero que no sea un punto negativo en mi evaluación. 											
+	tengo mayor conocimiento, espero que no sea un punto negativo en mi evaluación. 
+
+												
 
 
 # Framework Laravel
